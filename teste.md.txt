@@ -1,2 +1,3 @@
 Teste para commit:
 
+Esse arquivo é para testte nos estudos de git.
